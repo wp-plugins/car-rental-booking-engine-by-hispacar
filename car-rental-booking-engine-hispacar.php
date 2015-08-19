@@ -4,7 +4,7 @@
  * Text Domain: c-h-hispacar
  * Plugin URI: http://www.hispacar.com/wordpress-plugins/search/en/
  * Description: Add a search box to your website so your visitors can search and compare car hire prices worldwide.
- * Version: 1.0
+ * Version: 1.1
  * Author: Hispacar
  * Author URI: http://www.hispacar.com
  * License: GPL2

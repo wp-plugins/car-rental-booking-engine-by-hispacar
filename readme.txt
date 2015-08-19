@@ -7,8 +7,8 @@ turismus, toerisme
 Author URI: http://www.hispacar.com/
 Plugin URI: http://www.hispacar.com/wordpress-plugins/search/en/
 Requires at least: 3.3
-Tested up to: 4.0
-Stable tag: 1.0
+Tested up to: 4.3
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -162,6 +162,9 @@ You can define a default location in the settings of the plugin, but you can onl
 
 
 == Changelog ==
+
+= 1.1 =
+* Added new languages: French, German, Italian and Netherlands
 
 = 1.0 =
 * First release
