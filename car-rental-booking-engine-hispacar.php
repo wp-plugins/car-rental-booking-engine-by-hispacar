@@ -216,7 +216,7 @@ function c_h_h_af_cod_setting() {
 function c_h_h_lang_setting() {
 	$options = get_option('c_h_h_options');
 	echo "<select name='c_h_h_options[lang]' id='lang'>";
-	$langs = array('en', 'es');
+	$langs = array('en', 'es', 'fr', 'de', 'it', 'nl');
 
 	foreach($langs as $lang){
 		$selected = ($options['lang'] == $lang) ? 'selected="selected"' : '';
