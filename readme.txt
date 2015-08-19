@@ -164,7 +164,7 @@ You can define a default location in the settings of the plugin, but you can onl
 == Changelog ==
 
 = 1.1 =
-* Added new languages: French, German, Italian and Netherlands
+* Added new languages: French, German, Italian and Dutch
 
 = 1.0 =
 * First release
